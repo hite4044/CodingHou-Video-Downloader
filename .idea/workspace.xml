@@ -39,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.GUI.executor": "Run",
     "Python.Tmp.executor": "Run",
     "Python.core.executor": "Run",
     "Python.main.executor": "Run",
@@ -110,7 +111,7 @@
       <workItem from="1720527678628" duration="8678000" />
       <workItem from="1720577580728" duration="17086000" />
       <workItem from="1720597299769" duration="479000" />
-      <workItem from="1720597794258" duration="75000" />
+      <workItem from="1720597794258" duration="242000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -135,6 +136,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodingHouVideoDownloader$Tmp.coverage" NAME="Tmp 覆盖结果" MODIFIED="1720582501444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodingHouVideoDownloader$GUI.coverage" NAME="GUI 覆盖结果" MODIFIED="1720597869800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/CodingHouVideoDownloader$core.coverage" NAME="core 覆盖结果" MODIFIED="1720594144387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingHouVideoDownloader$main.coverage" NAME="main 覆盖结果" MODIFIED="1720595061598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
